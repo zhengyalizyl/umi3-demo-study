@@ -5,6 +5,7 @@ export default defineConfig({
   nodeModulesTransform: {
     type: 'none',
   },
+  antd:{},
   routes:routes,
   fastRefresh: {},
 });
